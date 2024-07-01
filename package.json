@@ -2,7 +2,7 @@
   "name": "be.davidfoot.droneracerdavid",                              
   "displayName": "David Foot Drone Race Test",                        
   "version": "0.0.1",                         
-  "unity": "2022.3",                             
+  "unity": "2022.3",                            
   "unityRelease": "",                             
   "description": "David Foot - Mon Drone Racer",                         
   "keywords": ["Script","Tool"],   
