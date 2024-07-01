@@ -1,6 +1,6 @@
 {                                                                                
   "name": "be.DavidFoot.DroneRacer",                              
-  "displayName": "David Foot Drone Race",                        
+  "displayName": "David Foot Drone Race Test",                        
   "version": "0.0.1",                         
   "unity": "2022.3",                             
   "unityRelease": "",                             
@@ -12,11 +12,12 @@
     "name": "David Foot",
     "mail": "",
     "url": "https://github.com/DavidFoot"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
+    "footprint": "",
+    "revision": ""
   },     
-  "repository":{
-"type":"Git",
-"url":"https://github.com/DavidFoot/DroneRace_Foot_David",
-"footprint":"",
-"revision":""},     
   "category": "Script"                   
 } 
